@@ -6,3 +6,5 @@ Tegin siis selle, et saada abi mängus nagu Rainbow Six Siege aastaid tagasi. M�
 
 
 Lisasin ka main-2.py mis on siis see Discordi bot mis jagas võtmeid ringi.
+
+Kui keegi ootab lisa seletust..... 🚪
